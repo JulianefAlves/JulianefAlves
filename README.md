@@ -26,7 +26,7 @@
 - 🔹 [Análise de Propensão de Compra e LTV](https://github.com/JulianefAlves/propensao-compra-LTV-analysis)
 
 
-### 🛠️ Tecnologias
+### 🛠️ Linguagens utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
