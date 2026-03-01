@@ -15,5 +15,4 @@
 
 ### 🚀 Projetos
 
-> 📊 **Projeto Saúde Cardiovascular**  
-> 🔗 https://github.com/JulianefAlves/projeto-saude-cardiovascular
+> 📊 [Projeto Saúde Cardiovascular](https://github.com/JulianefAlves/projeto-saude-cardiovascular)
