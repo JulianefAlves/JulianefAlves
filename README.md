@@ -3,6 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff51a9&size=35&center=true&vCenter=true&width=1000&lines=Oi!,+Eu+sou+a+Juliane+Alves;Recém-formada+em+Ciência+de+Dados;desenvolvo+projetos+com+Python;estatística+e+visualização+de+dados:%29)](https://git.io/typing-svg)
 
 
-### Detalhes
+## 📌 Detalhes
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JulianefAlves&show_icons=true&theme=dark)
+<details>
+  <summary>Ver mais</summary>
+
+- 🛠️ Python (pandas, numpy, matplotlib)  
+- 📊 Estatística descritiva  
+- 📈 Visualização de dados  
+- 📚 Projetos práticos com análise de dados  
+
+</details>
