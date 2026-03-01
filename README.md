@@ -33,3 +33,10 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### 📬 Contatos
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Juliane%20Alves-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julianealves-/)
+
+[![Email](https://img.shields.io/badge/Email-Juliane%20Alves-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:julianeferreiraalves@gmail.com)
