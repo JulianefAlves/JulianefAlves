@@ -13,6 +13,14 @@
 - 📚 Projetos práticos com análise de dados  
 
 
-### 🚀 Projetos
+### 🚀 Principais Projetos
 
-> 📊 [Projeto Saúde Cardiovascular](https://github.com/JulianefAlves/projeto-saude-cardiovascular)
+- 🔹 [Projeto Saúde Cardiovascular](https://github.com/JulianefAlves/projeto-saude-cardiovascular)
+  
+- 🔹 [Dashboard de Games (Looker Studio)](https://github.com/JulianefAlves/Dashboard-LookerStudio-Games)
+
+- 🔹 [Predição de Vitória – League of Legends](https://github.com/JulianefAlves/league-of-legends-win-prediction)
+
+- 🔹 [Detecção de Fraude em Cartão de Crédito](https://github.com/JulianefAlves/Credit-Card-Fraud-Detection)
+
+- 🔹 [Análise de Propensão de Compra e LTV](https://github.com/JulianefAlves/propensao-compra-LTV-analysis)
