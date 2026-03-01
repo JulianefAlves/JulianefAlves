@@ -24,3 +24,8 @@
 - 🔹 [Detecção de Fraude em Cartão de Crédito](https://github.com/JulianefAlves/Credit-Card-Fraud-Detection)
 
 - 🔹 [Análise de Propensão de Compra e LTV](https://github.com/JulianefAlves/propensao-compra-LTV-analysis)
+
+
+### Linguagens utilizadas
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianefAlves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
