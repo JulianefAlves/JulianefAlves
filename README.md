@@ -26,6 +26,10 @@
 - 🔹 [Análise de Propensão de Compra e LTV](https://github.com/JulianefAlves/propensao-compra-LTV-analysis)
 
 
-### Linguagens utilizadas
+### 🛠️ Tecnologias
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianefAlves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
