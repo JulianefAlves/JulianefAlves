@@ -13,3 +13,6 @@
 - 📚 Projetos práticos com análise de dados  
 
 
+### 📌 Projetos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulianefAlves&repo=projeto-saude-cardiovascularprojeto-saude-cardiovascular.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
